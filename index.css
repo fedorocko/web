@@ -6,4 +6,12 @@
     background-color: #464646;
     height: 360px;
     margin-bottom: 80px;
+    border-bottom: 2px solid #464646;
+}
+
+.footer {
+    color: white;
+    padding: 20px;
+    margin-top: 80px;
+    background-color: #464646;
 }
