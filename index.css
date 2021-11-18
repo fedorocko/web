@@ -5,7 +5,6 @@
     background-size: cover;
     background-color: #464646;
     height: 360px;
-    margin-bottom: 80px;
     border-bottom: 2px solid #464646;
 }
 
@@ -14,4 +13,8 @@
     padding: 20px;
     margin-top: 80px;
     background-color: #464646;
+}
+
+.col-md-3 {
+    padding-top: 40px;
 }
